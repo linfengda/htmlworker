@@ -1,0 +1,11 @@
+table.noBorderTable td, table.noBorderTable th, table.noBorderTable caption{border:1px dashed #ddd !important}
+table{border-collapse:collapse;display:table;}
+td, th{background:white; padding: 8px 10px 2px 10px;border: 0.5px solid #BEBEBE;}
+
+caption{border:1px dashed #DDD;border-bottom:0;padding:3px;text-align:center;}
+
+table tr.firstRow th{border-top:2px solid #BBB;background:#F7F7F7;}
+table tr.firstRow td{padding-top: 13px;}
+
+td p{margin:0;padding:0;}
+td span{margin:0;padding:0;}
